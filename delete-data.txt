@@ -1,0 +1,46 @@
+GigFlux – Delete Your Data
+==========================
+
+This page explains how to request deletion of your data in the GigFlux app.
+
+
+What data GigFlux stores about you
+-----------------------------------
+  - Your self-chosen nickname within a group
+  - Your band ratings (values 0–3 per band)
+  - A randomly generated session token (stored in your browser)
+  - Your join timestamp
+
+No email address, real name, or password is ever required or stored.
+
+
+Option 1: Delete your data from within the app
+-----------------------------------------------
+You can delete your own account at any time directly in the app:
+
+  1. Open the app and navigate to your group
+  2. Go to Settings (within the group view)
+  3. Select "Leave / Delete account"
+
+This removes your nickname and all your ratings from the group immediately.
+
+
+Option 2: Contact the administrator
+-------------------------------------
+If you cannot access the app or need your data deleted from all groups,
+send a request to:
+
+  contact@dino-code.com
+
+Please include the group Name, nickmane and invite link so we can identify your data.
+Requests are processed within 30 days.
+
+
+What gets deleted
+------------------
+  - Deleted immediately: your nickname, ratings, and session token
+  - Retained briefly: IP addresses in standard server logs
+    (automatically overwritten, no permanent logging)
+
+
+Privacy Policy: https://nachtmeer.github.io/Gigflux/privacy.txt
