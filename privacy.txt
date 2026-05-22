@@ -1,0 +1,118 @@
+============================================================
+Privacy Policy
+As of: March 2026
+============================================================
+
+1. Controller
+  The controller within the meaning of the GDPR is the natural or legal person named in the Impressum of https://gigflux.app/.
+
+2. What data we process
+  When joining a group
+  - Self-chosen nickname (no real name, no email, no password required)
+  - Session token (randomly generated, for recognition on return visits)
+  - Timestamp of joining
+  During use
+  - Your band ratings (value 0–3 per band, incl. timestamp of last change)
+  - IP address in standard web server log (short-term, no permanent logging)
+  Stored in your browser (localStorage)
+  - Session token per group — so you can return without re-entering your nickname
+  This data does not leave your browser and is not used for tracking or advertising. You can delete it at any time via your browser settings.
+
+3. Legal Basis
+  - Nickname, session token, ratings: Art. 6(1)(b) GDPR — processing for the performance of the service (contract performance).
+  - Cloudflare Turnstile (bot protection): Art. 6(1)(f) GDPR — legitimate interest in protection against automated abuse.
+  - Spotify playback: Art. 6(1)(a) GDPR — consent by actively opening the player.
+
+4. Third-Party Services
+  Cloudflare Turnstile (CAPTCHA)
+  When creating a group via the public form, Cloudflare Turnstile is used to detect automated requests (bots). Technical browser data (incl. IP address, user agent, interaction patterns) is transmitted to Cloudflare Inc., 101 Townsend St, San Francisco, CA 94107, USA.
+  Data transfer to the USA is based on standard contractual clauses (SCCs) pursuant to Art. 46(2)(c) GDPR. Cloudflare is certified under the EU-U.S. Data Privacy Framework.
+  Cloudflare Privacy Policy: https://www.cloudflare.com/privacypolicy/
+  (Cloudflare Turnstile is only active when creating a group via the public form, not when normally visiting or joining a group.)
+
+  Spotify Embed (Music Preview)
+  When you open the Spotify player for a band, an embedded player from Spotify AB, Regeringsgatan 19, SE-111 53 Stockholm, Sweden is loaded. A connection to Spotify servers is established, which may receive your IP address and technical browser data.
+  Spotify Privacy Policy: https://www.spotify.com/legal/privacy-policy/
+  (The Spotify player is only available for bands assigned a Spotify link, and only when you actively open it.)
+
+5. What We Do Not Do
+  - No tracking cookies or analytics tools (no Google Analytics etc.)
+  - No advertising
+  - No sharing of data with third parties (except the services mentioned above)
+  - No permanent IP address logging
+  - No linking of nickname to a real identity
+
+6. Data Retention
+  - Group memberships and ratings are stored as long as the group exists.
+  - The administrator can delete groups and all associated data at any time.
+  - You can delete your own account at any time (settings within the group).
+
+7. Your Rights (Art. 15–22 GDPR)
+  - Access (Art. 15): You can request a copy of your stored data.
+  - Rectification (Art. 16): You can change your nickname at any time.
+  - Erasure (Art. 17): You can delete your account yourself or contact the administrator.
+  - Restriction (Art. 18): You can request restriction of processing.
+  - Objection (Art. 21): You can object to processing based on legitimate interests.
+
+8. Right to Lodge a Complaint
+  You have the right to lodge a complaint with a data protection supervisory authority (Art. 77 GDPR). The competent authority depends on your place of residence or the location of the controller. A list of all German supervisory authorities can be found at the Federal Commissioner for Data Protection (BfDI) (https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html).
+
+
+============================================================
+Datenschutzerklärung
+Stand: März 2026
+============================================================
+
+1. Verantwortlicher
+  Verantwortlicher im Sinne der DSGVO ist die im Impressum von https://gigflux.app/ genannte natürliche oder juristische Person.
+
+2. Welche Daten wir verarbeiten
+  Beim Beitritt einer Gruppe
+  - Selbst gewählter Spitzname (kein Klarname, keine E-Mail, kein Passwort erforderlich)
+  - Session-Token (zufällig generiert, für die Wiedererkennung beim erneuten Besuch)
+  - Beitrittszeitpunkt
+  Während der Nutzung
+  - Deine Band-Bewertungen (Wert 0–3 pro Band, inkl. Zeitstempel der letzten Änderung)
+  - IP-Adresse im Standard-Webserver-Log (kurzfristig, kein dauerhaftes Logging)
+  Im Browser gespeichert (localStorage)
+  - Session-Token je Gruppe — damit du ohne erneute Eingabe zurückkehren kannst
+  Diese Daten verlassen deinen Browser nicht und werden nicht für Tracking oder Werbung genutzt. Du kannst sie jederzeit über die Browser-Einstellungen löschen.
+
+3. Rechtsgrundlagen
+  - Spitzname, Session-Token, Bewertungen: Art. 6 Abs. 1 lit. b DSGVO — Verarbeitung zur Erfüllung der Nutzung des Dienstes (Vertragsrfüllung).
+  - Cloudflare Turnstile (Bot-Schutz): Art. 6 Abs. 1 lit. f DSGVO — Berechtigtes Interesse am Schutz vor automatisierten Missbrauchsversuchen.
+  - Spotify-Wiedergabe: Art. 6 Abs. 1 lit. a DSGVO — Einwilligung durch aktives Öffnen des Players.
+
+4. Eingebundene Drittanbieter
+  Cloudflare Turnstile (CAPTCHA)
+  Beim Erstellen einer Gruppe über das öffentliche Formular wird Cloudflare Turnstile eingesetzt, um automatisierte Anfragen (Bots) zu erkennen. Dabei werden technische Browserdaten (u. a. IP-Adresse, User-Agent, Interaktionsmuster) an Cloudflare Inc., 101 Townsend St, San Francisco, CA 94107, USA übermittelt.
+  Die Übermittlung in die USA erfolgt auf Grundlage von Standardvertragsklauseln (SCCs) gemäß Art. 46 Abs. 2 lit. c DSGVO. Cloudflare ist nach dem EU-U.S. Data Privacy Framework zertifiziert.
+  Datenschutzerklärung Cloudflare: https://www.cloudflare.com/privacypolicy/
+  (Cloudflare Turnstile ist nur beim Erstellen einer Gruppe über das öffentliche Formular aktiv, nicht beim normalen Besuchen oder Beitreten einer Gruppe.)
+
+  Spotify Embed (Musikvorschau)
+  Wenn du den Spotify-Player für eine Band öffnest, wird ein eingebetteter Player von Spotify AB, Regeringsgatan 19, SE-111 53 Stockholm, Schweden geladen. Dabei wird eine Verbindung zu Spotify-Servern hergestellt, die deine IP-Adresse und technische Browserdaten erhalten können.
+  Datenschutzerklärung Spotify: https://www.spotify.com/legal/privacy-policy/
+  (Der Spotify-Player ist nur für Bands verfügbar, denen ein Spotify-Link zugewiesen wurde, und nur dann, wenn du ihn aktiv aufrufst.)
+
+5. Was wir nicht tun
+  - Keine Tracking-Cookies oder Analyse-Tools (kein Google Analytics o. Ä.)
+  - Keine Werbung
+  - Keine Weitergabe von Daten an Dritte (außer den oben genannten Diensten)
+  - Keine dauerhafte IP-Adressen-Protokollierung
+  - Keine Verknüpfung von Spitzname mit einer echten Identität
+
+6. Speicherdauer
+  - Gruppenmigliedschaften und Bewertungen werden gespeichert, solange die Gruppe existiert.
+  - Der Administrator kann Gruppen und alle zugehörigen Daten jederzeit vollständig löschen.
+  - Du kannst dein Konto jederzeit selbst löschen (Einstellungen innerhalb der Gruppe).
+
+7. Deine Rechte (Art. 15–22 DSGVO)
+  - Auskunft (Art. 15): Du kannst eine Kopie deiner gespeicherten Daten anfragen.
+  - Berichtigung (Art. 16): Du kannst deinen Spitznamen jederzeit selbst ändern.
+  - Löschung (Art. 17): Du kannst dein Konto selbst löschen oder den Administrator kontaktieren.
+  - Einschränkung (Art. 18): Du kannst die Verarbeitung einschränken lassen.
+  - Widerspruch (Art. 21): Du kannst der Verarbeitung auf Basis berechtigter Interessen widersprechen.
+
+8. Beschwerderecht bei der Aufsichtsbehörde
+  Du hast das Recht, dich bei einer Datenschutz-Aufsichtsbehörde zu beschweren (Art. 77 DSGVO). Die zuständige Behörde richtet sich nach deinem Wohnsitz oder dem Sitz des Verantwortlichen. Eine Liste aller deutschen Aufsichtsbehörden findest du beim Bundesbeauftragten für den Datenschutz (BfDI) (https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html).
